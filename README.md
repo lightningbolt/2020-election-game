@@ -3,6 +3,7 @@
 ## Development dependencies
 * Developed with Ruby 2.6.3p62 on Mac
 * roo 2.8.3 gem, to install run: 
+
         $ sudo gem install roo -v 2.8.3
 
 ## Directions
@@ -13,6 +14,10 @@
 5. The script assumes that the layout of the XLSX spreadsheets are exactly the same as the original and only the "Decision" column has been filled out.
 6. Included are 3 test XLSX files for testing.
 7. To test with randomly generated election results (this ignores declared winners in **districts.yml**), run:
+
         $ ./election-game.rb --test
+
 8. Run for real:
+
         $ ./election-game.rb
+
