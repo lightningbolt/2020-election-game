@@ -1,0 +1,18 @@
+---
+:biden:
+  :inputs:
+  - b
+  - biden
+  - joebiden
+  - josephbiden
+  - josephrbiden
+  - joerbiden
+  - unclejoe
+:trump:
+  :inputs:
+  - t
+  - trump
+  - dontrump
+  - donaldtrump
+  - donaldjtrump
+  - donjtrump
